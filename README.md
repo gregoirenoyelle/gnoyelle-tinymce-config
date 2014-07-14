@@ -1,5 +1,5 @@
-# TinyMCE 4 config
+# WordPress TinyMCE 4 config plugin
 
-* changer bouton order for default setup
+* change button order for default setup
 * remove address and code
 * remove custom color
