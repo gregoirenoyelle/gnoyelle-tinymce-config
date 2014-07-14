@@ -1,9 +1,9 @@
 <?php
 /*
-Plugin Name: gnoyelle : Config TinyMCE 4
+Plugin Name: gnoyelle : TinyMCE 4 config
 Plugin URI: http://wwww.gregoirenoyelle.com
-Description: Options pour l'éditeur TinyMCE 4
-Version: 1.0
+Description: Special options for TinyMCE 4. Require at least WordPress 3.9
+Version: 1.1
 Author: Grégoire Noyelle
 Author URI: http://wwww.gregoirenoyelle.com
 License: GPL2
